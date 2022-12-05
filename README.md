@@ -4,4 +4,4 @@ Author of artwork here: Captain_Lesbee_Ziner.
 Helpful Link: https://wiki.creativecommons.org/wiki/Best_practices_for_attribution
 If you use the art in this repository, please send me a link to your project, I'd love to see what you do with it!
 
-After releasing my art, I was surprised by how many people thanked me and how many cloned the repo. So I have decoided to finish some of the art, upload some more art, and as suggested, put the art on gameart.org. 
+After releasing my art, I was surprised by how many people thanked me and how many cloned the repo. So I have decoided to finish some of the art, upload some more art, and as suggested, put the art on opengameart.org. 
